@@ -44,7 +44,7 @@ Please refer to the reproduction of Figure 5 in Section 4.1.
 ### Figure S9 in Section S4.2
 Figure S9 illustrates inference results for deterministic components of the monthly data. All intermediate outputs can be found in sub-repository "Monthly/Outputs". The total computational time is about 215.1 hours without using the parallel computation. Note that Figures S9-S13 are all for the monthly data, so please do not clear the environment after reproducing Figure S9 if you also want to reproduce Figures S10-S13.           
 
-1. Load 7 ensembles of monthly data and necessary information (about 66.1 secconds)
+1. Load 7 ensembles of monthly data and necessary information (about 1.1 minutes)
 2. Model the deterministic components, evaluate mean trend $m_t(L_i,l_j)$ and sd $\sigma(L_i,l_j)$ for each grid point $(L_i,l_j)$, and plot Figure S9 (about 14.0 seconds for each grid point. We provide intermediate results "Res_Hatrho.csv", "Res_BetaAB.mat", and "Monthly_Sig.csv".)
 
 ### Figure S10 in Section S4.2
