@@ -3,7 +3,7 @@ This file documents the artifacts associated with the article (i.e., the data an
 
 
 ## Step 1. Download and process the data in sub-repository "LENS2_Data"
-Please follow the "README_.md" file in the sub-repository "LENS2_Data" to download the raw data, process and store them using file “Data_treatment.R” in the "LENS2_Data". Processing montly and annual data together for each ensemble takes about 1 minute. Processing daily data for each ensemble takes about 32.5 seconds.
+Please follow the "README.md" file in the sub-repository "LENS2_Data" to download the raw data, process and store them using file “Data_treatment.R” in the "LENS2_Data". Processing montly and annual data together for each ensemble takes about 1 minute. Processing daily data for each ensemble takes about 32.5 seconds.
 
 ## Step 2. Reproduce each section and figure sequentially
 ### Figure 1 in Section 2 (and Figure S1 in Section S2)
